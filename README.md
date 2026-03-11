@@ -1,2 +1,17 @@
-# python-calculator
-🐍 Python Calculator App with Tkinter GUI | sin, cos, tan, √, History
+# 🧮 Python Calculator
+
+## Features
+- ➕ Basic: Add, Subtract, Multiply, Divide
+- 📐 Scientific: sin, cos, tan
+- 📜 History tracking
+
+## Screenshot
+
+
+![Calculator](screenshot.png)
+
+
+
+## How to Run
+1. Install Python
+2. Run: `python calculator.py`
